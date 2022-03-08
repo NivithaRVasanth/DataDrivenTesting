@@ -1,1 +1,2 @@
 This is the first line i added from GitHub
+This is the line added from Eclipse local Git
